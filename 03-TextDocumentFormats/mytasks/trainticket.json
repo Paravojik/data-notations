@@ -1,0 +1,11 @@
+[ 
+    {
+        "trainType":"Intercity",
+        "price":47,
+        "from":"Rzeszow",
+        "to":"Krakow",
+        "isLate":false,
+        "departureTime":"20:17"
+
+    }
+]

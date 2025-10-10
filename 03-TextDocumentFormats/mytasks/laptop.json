@@ -1,0 +1,10 @@
+{
+"brand": "Dell",
+"model": "Inspiron 15",
+"year": 2023,
+"isTouchscreen": false,
+"devices": ["touchpad","webcam"],
+"ram": "16GB",
+"warrantyYears": 2,
+"ports": ["USB-A", "USB-C", "HDMI"]     
+}

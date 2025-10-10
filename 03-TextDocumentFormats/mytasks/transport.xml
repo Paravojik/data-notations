@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle >
+        <type>bus</type>
+        <engine type="V6" horsepower="301">diesel-electro</engine>
+        <name>Bus 179</name>
+        <seats>40</seats>
+    </vehicle>
+     <vehicle >
+        <type>plane</type>
+        <engine type="Turbofan" horsepower="27000 ">diesel</engine>
+        <name>Airbus A320</name>
+        <seats>180</seats>
+    </vehicle>
+     <vehicle >
+        <type>ferry</type>
+        <engine type="Marine Diesel V16" horsepower="22000">diesel</engine>
+        <name>Ocean Voyager</name>
+        <seats>1500</seats>
+    </vehicle>
+</transport>
